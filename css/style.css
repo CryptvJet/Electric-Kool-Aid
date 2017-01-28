@@ -1,0 +1,36 @@
+
+body {
+	background-image: url("/images/Lotus Flower.gif");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	position: relative;
+
+}
+
+.center {
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.onhover {
+	cursor: pointer;
+}
+
+.onhover:hover {
+	cursor: pointer;
+}
+
+.bmiddle {
+	text-align: center;
+	vertical-align: text-bottom;
+}
+
+.bmiddle26 {
+    height: inherit;
+    vertical-align: bottom;
+ margin: 0;
+
+}
